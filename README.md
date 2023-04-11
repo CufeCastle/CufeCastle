@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 welcome to my GitHub Page. I am Castle_Wang,a student major in management science.It's a major which is full of idiots,and i'm one of them.I know a little python and that's all.Recently, I'm researching in the field of financial statement fraud,this is a hopeless field for doing academic work,that leads me having a paper under review，but it has nothing about financial fraud.I feel like I'm done.
 
 Below are the tools I extremely master
+
 NULL
 
 
